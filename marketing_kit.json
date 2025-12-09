@@ -1,0 +1,101 @@
+{
+  "product": {
+    "name": "SynSync Professional",
+    "tagline": "Cognitive Sovereignty",
+    "value_proposition": "The only clinical-grade brainwave entrainment engine that runs 100% offline. Military-grade technology, civilian-grade privacy.",
+    "core_pillars": [
+      "Offline-First Architecture (Zero Data Harvesting)",
+      "GPGPU Physics Audio Engine (Real-time Synthesis vs Static Loops)",
+      "Bio-Adaptive Feedback (Stochastic Anti-Habituation)"
+    ]
+  },
+  "target_audiences": {
+    "crypto_native": {
+      "persona": "The Sovereign Individual",
+      "pain_points": ["Surveillance capitalism", "Data harvesting", "Centralized servers"],
+      "hooks": [
+        "Self-custody of consciousness.",
+        "Not your keys, not your crypto. Not your local data, not your mind.",
+        "Verify the zero-knowledge architecture yourself."
+      ],
+      "preferred_channels": ["Twitter/X", "Discord", "Reddit (r/privacy, r/monero)"]
+    },
+    "biohacker": {
+      "persona": "The Quantified Self Optimizer",
+      "pain_points": ["Plateauing results", "Habituation to static audio tracks", "Lack of scientific transparency"],
+      "hooks": [
+        "Stochastic Anti-Habituation prevents the RAS from filtering out the signal.",
+        "Tri-Layer Harmonic Stacking penetrates deeper than standard binaural beats.",
+        "Based on $11M of declassified Project Stargate research."
+      ],
+      "preferred_channels": ["Huberman Lab Subreddits", "Oura/Whoop Communities"]
+    },
+    "high_performer": {
+      "persona": "The Deep Worker / Coder",
+      "pain_points": ["Brain fog", "Distraction", "Burnout"],
+      "hooks": [
+        "Upgrade your operating system.",
+        "Flow state on demand.",
+        "The code for consciousness."
+      ],
+      "preferred_channels": ["LinkedIn", "Hacker News", "Product Hunt"]
+    },
+    "psychonaut": {
+      "persona": "The Explorer",
+      "pain_points": ["Fear of bad trips", "Difficulty integrating experiences", "Seeking legal alternatives"],
+      "hooks": [
+        "Explore the edge of reality with Focus 21.",
+        "High-Definition GPGPU Visuals inspired by DMT phenomenology.",
+        "Legal, safe, and repeatable altered states."
+      ],
+      "preferred_channels": ["TikTok (Visuals)", "Instagram Reels"]
+    }
+  },
+  "copy_assets": {
+    "headlines": [
+      "Take Your Brain Back.",
+      "$11M in Research. $0 in Surveillance.",
+      "Stop Meditating. Start Optimizing.",
+      "The Privacy-First Brain Computer Interface.",
+      "Don't Just Listen. Entrain."
+    ],
+    "social_posts": {
+      "twitter_thread": [
+        "1/5 Every meditation app tracks your anxiety levels to sell you ads. We built the antidote.",
+        "2/5 SynSync runs locally on your device. No servers. No accounts. No logs.",
+        "3/5 Powered by a real-time GPGPU physics engine that solves wave equations 60x per second.",
+        "4/5 Featuring 21 protocols declassified from CIA Project Stargate and AFRL research.",
+        "5/5 Reclaim your cognitive sovereignty. Download the offline master copy now."
+      ],
+      "instagram_caption": "Your brain data is worth more than your credit card. That’s why Big Tech wants it. 🧠🔓 SynSync works offline. Your reality stays yours. #biohacking #privacy #meditation #flowstate #cyberpunk"
+    },
+    "email_sequence": {
+      "welcome_subject": "Welcome to the Research Division",
+      "welcome_body": "You have joined a group of 10,000+ individuals reclaiming control over their cognitive baseline. You are now running the 'SynSync' operating system. No servers. No tracking. Just pure signal."
+    }
+  },
+  "seo_strategy": {
+    "primary_keywords": [
+      "binaural beats app offline",
+      "brainwave entrainment software",
+      "privacy focused meditation app",
+      "gamma wave focus tool",
+      "project stargate audio protocols"
+    ],
+    "content_topics": [
+      "Why 'Cloud' Meditation is a Privacy Nightmare",
+      "The Science of Stochastic Anti-Habituation",
+      "Declassified: How the CIA Trained Remote Viewers",
+      "GPGPU Audio Synthesis vs. MP3 Loops"
+    ]
+  },
+  "brand_identity": {
+    "voice": "Clinical, High-Tech, Rebellious, Authoritative.",
+    "colors": {
+      "primary": "#FFB000 (Bio-Amber)",
+      "base": "#0B0C15 (Void)",
+      "accent": "#00E5FF (Data Cyan)"
+    },
+    "visual_style": "Biotech Glass, OLED Black, HUD Elements, Schematic Wireframes."
+  }
+}
